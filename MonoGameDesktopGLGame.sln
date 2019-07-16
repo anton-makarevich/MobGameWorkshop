@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameDesktopGLGame", "MonoGameDesktopGLGame\MonoGameDesktopGLGame.csproj", "{F54B69ED-3498-4BB5-8AB5-D1D9D1706736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOSApp1", "IOSApp1\IOSApp1.csproj", "{F942B279-7915-43AB-AC85-238A5A6836D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F54B69ED-3498-4BB5-8AB5-D1D9D1706736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54B69ED-3498-4BB5-8AB5-D1D9D1706736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54B69ED-3498-4BB5-8AB5-D1D9D1706736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54B69ED-3498-4BB5-8AB5-D1D9D1706736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F942B279-7915-43AB-AC85-238A5A6836D6}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{F942B279-7915-43AB-AC85-238A5A6836D6}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{F942B279-7915-43AB-AC85-238A5A6836D6}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{F942B279-7915-43AB-AC85-238A5A6836D6}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
